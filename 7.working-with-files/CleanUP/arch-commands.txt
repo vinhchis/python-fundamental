@@ -1,0 +1,7 @@
+# update arch packages
+sudo pacman -Syu
+
+# update aur packages
+yay -Syu
+
+
