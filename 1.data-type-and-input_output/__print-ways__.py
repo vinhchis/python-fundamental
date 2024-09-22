@@ -1,4 +1,3 @@
-# 0.
 score = 100
 name = 'Alice'
 

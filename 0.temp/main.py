@@ -11,9 +11,6 @@ def main():
     print(f"{a} + {b} = ", add(a,b))
     print(f"{a} - {b} = ", sub(a,b))
 
-    # Menu
-    while True:
-        print
 
 if __name__ == '__main__':
     main()

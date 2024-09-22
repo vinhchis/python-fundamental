@@ -1,4 +1,4 @@
-primitive data types
+# primitive data types
 
 - number type
     - int
@@ -17,14 +17,15 @@ primitive data types
     - mapping/dictionary
     - none
 
-interactive shell
->>>(3 carets)
+# 
+***interactive shell***
+    `>>>(3 carets)`
 
 select python interpreter
 
-print() - a built-in function
 
-conversion
+
+# Conversion
     int(10.6)  = 10
     float(10) = 10.0
     string()
@@ -37,4 +38,4 @@ Operator:
     - remainder: `%` (percent sign)
     - `**`
 
-not support constant
+Important: Python **not support constant**

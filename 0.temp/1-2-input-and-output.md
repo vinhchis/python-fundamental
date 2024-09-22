@@ -1,6 +1,7 @@
 input() function
 print() function
 
+print() - a built-in function
 a few special characters
     - `\n`
     - `\t`
@@ -10,3 +11,4 @@ a few special characters
 # print
 
 TypeError
+
