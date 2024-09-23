@@ -1,4 +1,4 @@
-absolute_path = "/home/vinhchis/Documents/fpt-aptech/Semester/Seme-III/3.PYTHON/sourse/7.working-with-files/acronyms.txt"
+absolute_path = "acronyms.txt"
 
 acronym = input('What acronyms do you want to add?\n')
 definition = input('What is definition?\n')

@@ -1,6 +1,6 @@
 import os
 
-folder = "/home/vinhchis/Documents/fpt-aptech/Semester/Seme-III/3.PYTHON/sourse/7.working-with-files/"
+folder = "D:/code/github.com/vinhchis\python-fundamental/7.working-with-files"
 entries = os.scandir(folder)
 
 # for entry in entries:

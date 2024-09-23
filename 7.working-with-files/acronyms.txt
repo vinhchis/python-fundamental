@@ -6,3 +6,5 @@ BTW - By the way
 ML - Machine Learning
 WWW - World Wide Web
 NN - Never None
+IT - In Tech
+JS - Java Scripts
